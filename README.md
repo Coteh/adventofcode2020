@@ -58,4 +58,4 @@ To run the test suite:
 |  24  |        |        |
 |  25  |        |        |
 
-* Day 11 part 2 is incredibly slow at the moment. Will need to see if it can be optimized later.
+\* Day 11 part 2 is incredibly slow at the moment. Will need to see if it can be optimized later.
