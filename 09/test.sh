@@ -2,7 +2,9 @@
 
 set -e
 
-diff <(elixir 09/Day09.ex 09/sample 5) <(echo "127
+DATA_DIR="./data/2020"
+
+diff <(elixir 09/Day09.ex "${DATA_DIR}/09/sample" 5) <(echo "127
 62")
-diff <(elixir 09/Day09.ex 09/input) <(echo "731031916
+diff <(elixir 09/Day09.ex "${DATA_DIR}/09/input") <(echo "731031916
 93396727")
