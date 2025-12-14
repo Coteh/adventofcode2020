@@ -4,7 +4,7 @@
 
 These are my solutions for [Advent of Code (AoC) 2020](https://adventofcode.com/2020).
 
-At work, we had been using Elixir for some backend services, which made me want to deepen my familiarity with the language. That’s how I ended up choosing it for this year’s Advent of Code.
+At work, we had been using [Elixir](https://elixir-lang.org/) for some backend services, which made me want to deepen my familiarity with the language. That’s how I ended up choosing it for this year’s Advent of Code.
 
 ## Running the Solutions
 
